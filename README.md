@@ -2,6 +2,7 @@
 Lo so, lo so, vieni dal sito di OPTIZPC, vero? 😜
 Se è si, allora, questa è la guida per scaricare i file.
 Come riportato nel sito web di OPTIZPC, abbiamo creato 3 FILE, ma è più consigliato fare quello con la PULIZIA COMPLETA.
+PS: Tutti i file si trovano nella repository! Quindi qua sopra.
 
  1) OP DOWNLOAD STANDARD PREDEFINITO.bat
 2)OPTIZ PC  V. BASE NO CONTROLLO SISTEMA + NO CONTR. FILE DISCO + NO DEFRAMM DISCO.bat
