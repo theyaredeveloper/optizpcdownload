@@ -1,1 +1,24 @@
 # optizpcdownload
+Lo so, lo so, vieni dal sito di OPTIZPC, vero? 😜
+Se è si, allora, questa è la guida per scaricare i file.
+Come riportato nel sito web di OPTIZPC, abbiamo creato 3 FILE, ma è più consigliato fare quello con la PULIZIA COMPLETA.
+
+ 1) OP DOWNLOAD STANDARD PREDEFINITO.bat
+2)OPTIZ PC  V. BASE NO CONTROLLO SISTEMA + NO CONTR. FILE DISCO + NO DEFRAMM DISCO.bat
+3) OPTIZ PC NO OTT. FILE DI SISTEMA
+
+NOTA BENE: SE NON TI PARTE INIZIALMENTE L'OPERAZIONE, CLICCA UNA COSA A CASO.
+
+Il 1, serve per dare un OTTIMIZZAZIONE COMPLETA DEL TUO PC.
+Il 2, invece, è per una pulizia abbastanza "povera", una pulizia super base.
+Il 3, è una ottimizzazione senza LA LUNGA COSA DEI FILE DI SISTEMA, che può richiedere un pò di minuti.
+
+DURATA
+OPTIZ PC  V. BASE NO CONTROLLO SISTEMA + NO CONTR. FILE DISCO + NO DEFRAMM DISCO.bat = 1 MINUTO CIRCA, DIPENDE DAL TUO PROCESSORE.
+OPTIZ PC DOWNLAOD STANDARD PREDEFINITO.BAT = MINIMO 5 MINUTI, OVVIAMENTE DIPENDE DAL TUO PROCESSORE.
+OPTIZ PC NO OTT(OTTIMIZZAZIONE) FILE DI SISTEMA = 3/4 MINUTI, DIPENDE DAL TUO PROCESSORE.
+
+
+TUTTO DEVE ESSERE ESEGUITO CON AMMINISTRATORE.
+
+Grazie per usare OPTIZPC!
